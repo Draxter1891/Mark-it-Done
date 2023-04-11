@@ -43,11 +43,12 @@
 .maitdn h2{
     color: aliceblue;
     display: flex;
+    font-size: 50px;
     align-items: center;
     margin-bottom: 20px;
 }
 .maitdn h2 img{
-    width: 30px;
+    width: 55px;
     margin-left: 10px;
 }
 .r{
@@ -101,7 +102,7 @@ ul li::before{
     left: 8px;
 }
 ul li.checked{
-color: #555;
+color: #878787;
 text-decoration: line-through;
 }
 ul li.checked::before{
@@ -115,7 +116,7 @@ ul li span{
     width: 40px;
     height: 40px;
     font-size: 22px;
-    color: #555;
+    color: #878787;
     line-height: 40px;
     text-align: center;
     border-radius: 50%;
