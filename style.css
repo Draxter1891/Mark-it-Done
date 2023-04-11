@@ -26,8 +26,8 @@
     z-index: -1;
 }
 .maitdn{
-    width: 200vw;
-    max-width: 640px;
+    width: 100vw;
+    max-width: 540px;
     align-items: center;
     display: flow-root;
     justify-content: center;
